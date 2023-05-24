@@ -1,0 +1,10 @@
+.userThemesExampleBox {
+    border-style: solid;
+    border-color: gold;
+    border-width: 2px;
+    color: black;
+}
+
+.userThemesExampleContainer p {
+    color: blue;
+}
